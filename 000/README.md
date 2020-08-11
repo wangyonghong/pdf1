@@ -11,3 +11,7 @@
 - [000/009.2-2-如何高效均衡应用层负载](https://github.com/wangyonghong/pdf1/blob/master/000/2-2-如何高效均衡应用层负载.pdf)
 - [000/010.2-3-怎样向客户端隐藏应用层错误](https://github.com/wangyonghong/pdf1/blob/master/000/2-3-怎样向客户端隐藏应用层错误.pdf)
 - [000/011.2-4-应用端如何实时控制NGINX](https://github.com/wangyonghong/pdf1/blob/master/000/2-4-应用端如何实时控制NGINX.pdf)
+- [000/012.1-1-从头搭建一个静态资源服务](https://github.com/wangyonghong/pdf1/blob/master/000/1-1-从头搭建一个静态资源服务.pdf)
+- [000/013.1-2-用好access.log日志](https://github.com/wangyonghong/pdf1/blob/master/000/1-2-用好access.log日志.pdf)
+- [000/014.1-3-NGINX的进程架构](https://github.com/wangyonghong/pdf1/blob/master/000/1-3-NGINX的进程架构.pdf)
+- [000/015.1-4-让NGINX提供HTTPS服务](https://github.com/wangyonghong/pdf1/blob/master/000/1-4-让NGINX提供HTTPS服务.pdf)
