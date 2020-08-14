@@ -23,3 +23,8 @@
 - [000/021.Nginx从入门到精通-6-应用篇-榨干单机NGINX性能的诀窍和全面洞察NGINX应用状态](https://github.com/wangyonghong/pdf1/blob/master/000/Nginx从入门到精通-6-应用篇-榨干单机NGINX性能的诀窍和全面洞察NGINX应用状态.pdf)
 - [000/022.Nginx从入门到精通-7-实战篇-灰度AB限流等](https://github.com/wangyonghong/pdf1/blob/master/000/Nginx从入门到精通-7-实战篇-灰度AB限流等.pdf)
 - [000/023.Nginx从入门到精通-8-实战篇-现代应用可观测](https://github.com/wangyonghong/pdf1/blob/master/000/Nginx从入门到精通-8-实战篇-现代应用可观测.pdf)
+- [000/024.Debian及自由软件社区简介](https://github.com/wangyonghong/pdf1/blob/master/000/Debian及自由软件社区简介.pdf)
+- [000/025.3-1-NGINX如何控制客户端缓存](https://github.com/wangyonghong/pdf1/blob/master/000/3-1-NGINX如何控制客户端缓存.pdf)
+- [000/026.【OSC源创会91期】基于插件注册和流程编排的渐进式DevOps体系建设-刘超](https://github.com/wangyonghong/pdf1/blob/master/000/【OSC源创会91期】基于插件注册和流程编排的渐进式DevOps体系建设-刘超.pdf)
+
+
